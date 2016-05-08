@@ -2,8 +2,8 @@
 
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
     <widget xmlns     = "http://www.w3.org/ns/widgets"
-        xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.MyJobsJQ"
+        xmlns:gap = "http://p.com/ns/1.0"
+        id        = "com.pjo.myjobsjq"
         version   = "1.150319.1600">
 
     <name>MyJobsJQ</name>
@@ -21,9 +21,9 @@
     <preference name="permissions"                 value="none"/>
     <preference name="android-windowSoftInputMode" value="stateVisible|adjustResize" />
     <preference name="CameraUsesGeolocation"       value="true" />
-
+	<preference name='phonegap-version' value='cli-5.2.0' />
     <!-- Customize your app and platform with the preference element. -->
-    <preference name="phonegap-version"           value="3.7.0" />          <!-- all: current version of PhoneGap -->
+   
     <preference name="orientation"                value="all" />            <!-- all: default means both landscape and portrait are enabled -->
     <preference name="target-device"              value="universal" />      <!-- all: possible values handset, tablet, or universal -->
     <preference name="fullscreen"                 value="true" />           <!-- all: hides the status bar at the top of the screen -->

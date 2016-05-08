@@ -6,9 +6,9 @@
         id        = "com.pjo.myjobsjq"
         version   = "1.150319.1600">
 
-    <name>MyJobsJQ</name>
+    <name>JQMyJobs</name>
     <description>
-        MyJobsJQ Tablet.
+        JQMyJobs.
     </description>
 
     <author href="#" email="Paul.ostridge@cgi.com">

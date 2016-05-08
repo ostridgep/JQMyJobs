@@ -2,9 +2,9 @@
 
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
     <widget xmlns     = "http://www.w3.org/ns/widgets"
-        xmlns:gap = "http://p.com/ns/1.0"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.pjo.myjobsjq"
-        version   = "1.150319.1600">
+        version   = "1.160508.2200">
 
     <name>JQMyJobs</name>
     <description>
